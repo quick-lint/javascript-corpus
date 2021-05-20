@@ -1,0 +1,354 @@
+[submodule "aos"]
+	path = aos
+	url = https://github.com/michalsnik/aos.git
+[submodule "anypixel"]
+	path = anypixel
+	url = https://github.com/googlecreativelab/anypixel.git
+[submodule "apexcharts"]
+	path = apexcharts
+	url = https://github.com/apexcharts/apexcharts.js.git
+[submodule "autocomplete"]
+	path = autocomplete
+	url = https://github.com/algolia/autocomplete.js.git
+[submodule "awesomplete"]
+	path = awesomplete
+	url = https://github.com/LeaVerou/awesomplete.git
+[submodule "Background-Check"]
+	path = Background-Check
+	url = https://github.com/kennethcachia/Background-Check.git
+[submodule "balloon"]
+	path = balloon
+	url = https://github.com/kazzkiq/balloon.css.git
+[submodule "bcoin"]
+	path = bcoin
+	url = https://github.com/bcoin-org/bcoin.git
+[submodule "baguetteBox"]
+	path = baguetteBox
+	url = https://github.com/feimosi/baguetteBox.js.git
+[submodule "blazy"]
+	path = blazy
+	url = https://github.com/dinbror/blazy.git
+[submodule "blotter"]
+	path = blotter
+	url = https://github.com/bradley/blotter.git
+[submodule "bideo"]
+	path = bideo
+	url = https://github.com/rishabhp/bideo.js.git
+[submodule "bounce"]
+	path = bounce
+	url = https://github.com/tictail/bounce.js.git
+[submodule "bricks"]
+	path = bricks
+	url = https://github.com/callmecavs/bricks.js.git
+[submodule "bwip-js"]
+	path = bwip-js
+	url = https://github.com/metafloor/bwip-js.git
+[submodule "c3"]
+	path = c3
+	url = https://github.com/c3js/c3.git
+[submodule "chartist-js"]
+	path = chartist-js
+	url = https://github.com/gionkunz/chartist-js.git
+[submodule "Choices"]
+	path = Choices
+	url = https://github.com/jshjohnson/Choices.git
+[submodule "cleave"]
+	path = cleave
+	url = https://github.com/nosir/cleave.js.git
+[submodule "Chart"]
+	path = Chart
+	url = https://github.com/chartjs/Chart.js.git
+[submodule "Clusterize"]
+	path = Clusterize
+	url = https://github.com/NeXTs/Clusterize.js.git
+[submodule "ContentTools"]
+	path = ContentTools
+	url = https://github.com/GetmeUK/ContentTools.git
+[submodule "CountUp"]
+	path = CountUp
+	url = https://github.com/inorganik/CountUp.js.git
+[submodule "custombox"]
+	path = custombox
+	url = https://github.com/dixso/custombox.git
+[submodule "croppie"]
+	path = croppie
+	url = https://github.com/foliotek/croppie.git
+[submodule "draggable"]
+	path = draggable
+	url = https://github.com/Shopify/draggable.git
+[submodule "date-fns"]
+	path = date-fns
+	url = https://github.com/date-fns/date-fns.git
+[submodule "dragula"]
+	path = dragula
+	url = https://github.com/bevacqua/dragula.git
+[submodule "drift"]
+	path = drift
+	url = https://github.com/imgix/drift.git
+[submodule "drop"]
+	path = drop
+	url = https://github.com/cferdinandi/drop.git
+[submodule "dropmic"]
+	path = dropmic
+	url = https://github.com/agence-webup/dropmic.git
+[submodule "dynamics"]
+	path = dynamics
+	url = https://github.com/michaelvillar/dynamics.js.git
+[submodule "dropzone"]
+	path = dropzone
+	url = https://github.com/enyo/dropzone.git
+[submodule "elevator"]
+	path = elevator
+	url = https://github.com/tholman/elevator.js.git
+[submodule "embed"]
+	path = embed
+	url = https://github.com/ritz078/embed.js.git
+[submodule "edex-ui"]
+	path = edex-ui
+	url = https://github.com/GitSquared/edex-ui.git
+[submodule "express"]
+	path = express
+	url = https://github.com/expressjs/express.git
+[submodule "eqcss"]
+	path = eqcss
+	url = https://github.com/eqcss/eqcss.git
+[submodule "feature"]
+	path = feature
+	url = https://github.com/viljamis/feature.js.git
+[submodule "flatpickr"]
+	path = flatpickr
+	url = https://github.com/chmln/flatpickr.git
+[submodule "frend"]
+	path = frend
+	url = https://github.com/frend/frend.co.git
+[submodule "glidejs"]
+	path = glidejs
+	url = https://github.com/jedrzejchalubek/glidejs.git
+[submodule "fabric"]
+	path = fabric
+	url = https://github.com/kangax/fabric.js.git
+[submodule "grafi"]
+	path = grafi
+	url = https://github.com/grafijs/grafi.git
+[submodule "GreenSock-JS"]
+	path = GreenSock-JS
+	url = https://github.com/greensock/GreenSock-JS.git
+[submodule "headroom"]
+	path = headroom
+	url = https://github.com/WickyNilliams/headroom.js.git
+[submodule "horsey"]
+	path = horsey
+	url = https://github.com/bevacqua/horsey.git
+[submodule "iconate"]
+	path = iconate
+	url = https://github.com/bitshadow/iconate.git
+[submodule "holmes"]
+	path = holmes
+	url = https://github.com/Haroenv/holmes.git
+[submodule "intense-images"]
+	path = intense-images
+	url = https://github.com/tholman/intense-images.git
+[submodule "impress"]
+	path = impress
+	url = https://github.com/impress/impress.js.git
+[submodule "iphone-inline-video"]
+	path = iphone-inline-video
+	url = https://github.com/bfred-it/iphone-inline-video.git
+[submodule "isMobile"]
+	path = isMobile
+	url = https://github.com/kaimallea/isMobile.git
+[submodule "isotope"]
+	path = isotope
+	url = https://github.com/metafizzy/isotope.git
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/jquery/jquery.git
+[submodule "jump"]
+	path = jump
+	url = https://github.com/callmecavs/jump.js.git
+[submodule "jsdom"]
+	path = jsdom
+	url = https://github.com/jsdom/jsdom.git
+[submodule "kajero"]
+	path = kajero
+	url = https://github.com/JoelOtter/kajero.git
+[submodule "keymaster"]
+	path = keymaster
+	url = https://github.com/madrobby/keymaster.git
+[submodule "lazysizes"]
+	path = lazysizes
+	url = https://github.com/aFarkas/lazysizes.git
+[submodule "lightense-images"]
+	path = lightense-images
+	url = https://github.com/sparanoid/lightense-images.git
+[submodule "list"]
+	path = list
+	url = https://github.com/javve/list.js.git
+[submodule "lodash"]
+	path = lodash
+	url = https://github.com/lodash/lodash.git
+[submodule "loud-links"]
+	path = loud-links
+	url = https://github.com/mahdif/loud-links.git
+[submodule "lory"]
+	path = lory
+	url = https://github.com/meandmax/lory.git
+[submodule "mark"]
+	path = mark
+	url = https://github.com/julmot/mark.js.git
+[submodule "medium-editor"]
+	path = medium-editor
+	url = https://github.com/yabwe/medium-editor.git
+[submodule "microlight"]
+	path = microlight
+	url = https://github.com/asvd/microlight.git
+[submodule "minigrid"]
+	path = minigrid
+	url = https://github.com/henriquea/minigrid.git
+[submodule "mojs"]
+	path = mojs
+	url = https://github.com/legomushroom/mojs.git
+[submodule "nanobar"]
+	path = nanobar
+	url = https://github.com/jacoborus/nanobar.git
+[submodule "parallax"]
+	path = parallax
+	url = https://github.com/wagerfield/parallax.git
+[submodule "particles"]
+	path = particles
+	url = https://github.com/VincentGarreau/particles.js.git
+[submodule "PhotoSwipe"]
+	path = PhotoSwipe
+	url = https://github.com/dimsemenov/PhotoSwipe.git
+[submodule "Pikaday"]
+	path = Pikaday
+	url = https://github.com/dbushell/Pikaday.git
+[submodule "pixi"]
+	path = pixi
+	url = https://github.com/pixijs/pixi.js.git
+[submodule "plyr"]
+	path = plyr
+	url = https://github.com/selz/plyr.git
+[submodule "places"]
+	path = places
+	url = https://github.com/algolia/places.git
+[submodule "popper"]
+	path = popper
+	url = https://github.com/FezVrasta/popper.js.git
+[submodule "progressbar"]
+	path = progressbar
+	url = https://github.com/kimmobrunfeldt/progressbar.js.git
+[submodule "popmotion"]
+	path = popmotion
+	url = https://github.com/Popmotion/popmotion.git
+[submodule "push"]
+	path = push
+	url = https://github.com/Nickersoft/push.js.git
+[submodule "quill"]
+	path = quill
+	url = https://github.com/quilljs/quill.git
+[submodule "rellax"]
+	path = rellax
+	url = https://github.com/dixonandmoe/rellax.git
+[submodule "randomColor"]
+	path = randomColor
+	url = https://github.com/davidmerfield/randomColor.git
+[submodule "sal"]
+	path = sal
+	url = https://github.com/mciastek/sal.git
+[submodule "rome"]
+	path = rome
+	url = https://github.com/bevacqua/rome.git
+[submodule "scrollreveal"]
+	path = scrollreveal
+	url = https://github.com/jlmakes/scrollreveal.js.git
+[submodule "ScrollTrigger"]
+	path = ScrollTrigger
+	url = https://github.com/terwanerik/ScrollTrigger.git
+[submodule "segment"]
+	path = segment
+	url = https://github.com/lmgonzalves/segment.git
+[submodule "select"]
+	path = select
+	url = https://github.com/HubSpot/select.git
+[submodule "seen"]
+	path = seen
+	url = https://github.com/themadcreator/seen.git
+[submodule "Simple-Ajax-Uploader"]
+	path = Simple-Ajax-Uploader
+	url = https://github.com/LPology/Simple-Ajax-Uploader.git
+[submodule "shepherd"]
+	path = shepherd
+	url = https://github.com/HubSpot/shepherd.git
+[submodule "Snap"]
+	path = Snap
+	url = https://github.com/adobe-webplatform/Snap.svg.git
+[submodule "Socialite"]
+	path = Socialite
+	url = https://github.com/tmort/Socialite.git
+[submodule "Sortable"]
+	path = Sortable
+	url = https://github.com/RubaXa/Sortable.git
+[submodule "spin"]
+	path = spin
+	url = https://github.com/fgnass/spin.js.git
+[submodule "starability"]
+	path = starability
+	url = https://github.com/LunarLogic/starability.git
+[submodule "sticky-js"]
+	path = sticky-js
+	url = https://github.com/rgalus/sticky-js.git
+[submodule "sweetalert2"]
+	path = sweetalert2
+	url = https://github.com/limonte/sweetalert2.git
+[submodule "sweetalert"]
+	path = sweetalert
+	url = https://github.com/t4t5/sweetalert.git
+[submodule "timesheet"]
+	path = timesheet
+	url = https://github.com/sbstjn/timesheet.js.git
+[submodule "swiper"]
+	path = swiper
+	url = https://github.com/nolimits4web/swiper.git
+[submodule "tingle"]
+	path = tingle
+	url = https://github.com/robinparisi/tingle.git
+[submodule "trianglify"]
+	path = trianglify
+	url = https://github.com/qrohlf/trianglify.git
+[submodule "type"]
+	path = type
+	url = https://github.com/nathanford/type.js.git
+[submodule "tinymce"]
+	path = tinymce
+	url = https://github.com/tinymce/tinymce.git
+[submodule "underscore"]
+	path = underscore
+	url = https://github.com/jashkenas/underscore.git
+[submodule "Validatinator"]
+	path = Validatinator
+	url = https://github.com/JenkinsDev/Validatinator.git
+[submodule "vanilla-modal"]
+	path = vanilla-modal
+	url = https://github.com/thephuse/vanilla-modal.git
+[submodule "vivus"]
+	path = vivus
+	url = https://github.com/maxwellito/vivus.git
+[submodule "velocity"]
+	path = velocity
+	url = https://github.com/julianshapiro/velocity.git
+[submodule "waypoints"]
+	path = waypoints
+	url = https://github.com/imakewebthings/waypoints.git
+[submodule "wallop"]
+	path = wallop
+	url = https://github.com/peduarte/wallop.git
+[submodule "x-ray"]
+	path = x-ray
+	url = https://github.com/cferdinandi/x-ray.git
+[submodule "yall"]
+	path = yall
+	url = https://github.com/malchata/yall.js.git
+[submodule "noUiSlider"]
+	path = noUiSlider
+	url = https://github.com/leongersen/noUiSlider.git
