@@ -8,16 +8,15 @@ declare -a exclude_dirs
 exclude_dirs=(
    "build"
    "dist"
-   "test"
-   "asset"
+   "assets"
 )
 
 exclude_dir_string() {
     local s=""
     for dir in "${exclude_dirs[@]}"; do
-        s+=".*/$dir/|"
+        s+="./$dir/|"
     done
     echo "${s::-1}"
 }
 
-find . -type f -iname \*.\*js | egrep -v "$(exclude_dir_string)"
+find . -type f -iname \*.\*js | egrep "$(exclude_dir_string)"
