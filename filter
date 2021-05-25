@@ -12,7 +12,7 @@ exclude_dirs=(
    "asset"
 )
 
-make_exlude_dir_string() {
+exclude_dir_string() {
     local s=""
     for dir in "${exclude_dirs[@]}"; do
         s+=".*/$dir/|"
@@ -20,6 +20,4 @@ make_exlude_dir_string() {
     echo "${s::-1}"
 }
 
-exclude_dir_string="$(make_exlude_dir_string)"
-
-find . -type f -iname \*.*js | egrep "($exclude_dir_string)"
+find . -type f -iname \*.\*js | egrep -v "($(exclude_dir_string))"
