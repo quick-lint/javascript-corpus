@@ -31,9 +31,6 @@
 [submodule "blotter"]
 	path = blotter
 	url = https://github.com/bradley/blotter.git
-[submodule "bideo"]
-	path = bideo
-	url = https://github.com/rishabhp/bideo.js.git
 [submodule "bounce"]
 	path = bounce
 	url = https://github.com/tictail/bounce.js.git
@@ -67,9 +64,6 @@
 [submodule "CountUp"]
 	path = CountUp
 	url = https://github.com/inorganik/CountUp.js.git
-[submodule "custombox"]
-	path = custombox
-	url = https://github.com/dixso/custombox.git
 [submodule "croppie"]
 	path = croppie
 	url = https://github.com/foliotek/croppie.git
@@ -130,9 +124,6 @@
 [submodule "grafi"]
 	path = grafi
 	url = https://github.com/grafijs/grafi.git
-[submodule "GreenSock-JS"]
-	path = GreenSock-JS
-	url = https://github.com/greensock/GreenSock-JS.git
 [submodule "headroom"]
 	path = headroom
 	url = https://github.com/WickyNilliams/headroom.js.git
@@ -157,9 +148,6 @@
 [submodule "isMobile"]
 	path = isMobile
 	url = https://github.com/kaimallea/isMobile.git
-[submodule "isotope"]
-	path = isotope
-	url = https://github.com/metafizzy/isotope.git
 [submodule "jquery"]
 	path = jquery
 	url = https://github.com/jquery/jquery.git
@@ -238,9 +226,6 @@
 [submodule "progressbar"]
 	path = progressbar
 	url = https://github.com/kimmobrunfeldt/progressbar.js.git
-[submodule "popmotion"]
-	path = popmotion
-	url = https://github.com/Popmotion/popmotion.git
 [submodule "push"]
 	path = push
 	url = https://github.com/Nickersoft/push.js.git
@@ -250,18 +235,12 @@
 [submodule "rellax"]
 	path = rellax
 	url = https://github.com/dixonandmoe/rellax.git
-[submodule "randomColor"]
-	path = randomColor
-	url = https://github.com/davidmerfield/randomColor.git
 [submodule "sal"]
 	path = sal
 	url = https://github.com/mciastek/sal.git
 [submodule "rome"]
 	path = rome
 	url = https://github.com/bevacqua/rome.git
-[submodule "scrollreveal"]
-	path = scrollreveal
-	url = https://github.com/jlmakes/scrollreveal.js.git
 [submodule "ScrollTrigger"]
 	path = ScrollTrigger
 	url = https://github.com/terwanerik/ScrollTrigger.git
@@ -274,9 +253,6 @@
 [submodule "seen"]
 	path = seen
 	url = https://github.com/themadcreator/seen.git
-[submodule "Simple-Ajax-Uploader"]
-	path = Simple-Ajax-Uploader
-	url = https://github.com/LPology/Simple-Ajax-Uploader.git
 [submodule "shepherd"]
 	path = shepherd
 	url = https://github.com/HubSpot/shepherd.git
@@ -316,9 +292,6 @@
 [submodule "trianglify"]
 	path = trianglify
 	url = https://github.com/qrohlf/trianglify.git
-[submodule "type"]
-	path = type
-	url = https://github.com/nathanford/type.js.git
 [submodule "tinymce"]
 	path = tinymce
 	url = https://github.com/tinymce/tinymce.git
