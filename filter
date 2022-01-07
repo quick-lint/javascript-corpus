@@ -10,13 +10,37 @@ exclude_dirs=(
    "dist"
    "assets"
 )
+declare -a exclude_paths
+exclude_paths=(
+    # Incomplete JavaScript code (used by a templating engine):
+    Snap/src/amd-banner.js
+    Snap/src/amd-footer.js
+    medium-editor/src/wrappers/end.js
+    medium-editor/src/wrappers/start.js
 
-exclude_dir_string() {
+    # JSON, not JavaScript:
+    grafi/module.test.js
+    jquery/test/data/json_obj.js
+    noUiSlider/documentation/examples/huge-numbers-direct.js
+    noUiSlider/documentation/index/install.js
+    noUiSlider/documentation/slider-values/steps.js
+
+    # Real bug (syntax error):
+    iconate/Gruntfile.js
+
+    # Real bug (run-time error):
+    apexcharts/src/charts/Treemap.js
+)
+
+exclude_string() {
     local s=""
     for dir in "${exclude_dirs[@]}"; do
         s+="/$dir/|"
     done
+    for path in "${exclude_paths[@]}"; do
+        s+="\./$path|"
+    done
     echo "${s::-1}"
 }
 
-find . -type f -iname \*.\*js | egrep -v "$(exclude_dir_string)"
+find . -type f \( -iname \*.js -o -iname \*.cjs -o -iname \*.mjs \) | egrep -v "$(exclude_string)"
