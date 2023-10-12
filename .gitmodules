@@ -301,9 +301,6 @@
 [submodule "Validatinator"]
 	path = Validatinator
 	url = https://github.com/JenkinsDev/Validatinator.git
-[submodule "vanilla-modal"]
-	path = vanilla-modal
-	url = https://github.com/thephuse/vanilla-modal.git
 [submodule "vivus"]
 	path = vivus
 	url = https://github.com/maxwellito/vivus.git
