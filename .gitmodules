@@ -45,7 +45,7 @@
 	url = https://github.com/c3js/c3.git
 [submodule "chartist-js"]
 	path = chartist-js
-	url = https://github.com/gionkunz/chartist-js.git
+	url = https://github.com/chartist-js/chartist-js.git
 [submodule "Choices"]
 	path = Choices
 	url = https://github.com/jshjohnson/Choices.git
