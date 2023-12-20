@@ -322,3 +322,15 @@
 [submodule "noUiSlider"]
 	path = noUiSlider
 	url = https://github.com/leongersen/noUiSlider.git
+[submodule "AFFiNE"]
+	path = AFFiNE
+	url = https://github.com/toeverything/AFFiNE.git
+[submodule "kibana"]
+	path = kibana
+	url = https://github.com/elastic/kibana.git
+[submodule "sentry"]
+	path = sentry
+	url = https://github.com/getsentry/sentry.git
+[submodule "vscode"]
+	path = vscode
+	url = https://github.com/microsoft/vscode.git
