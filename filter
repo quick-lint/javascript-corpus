@@ -9,6 +9,9 @@ exclude_dirs=(
    "build"
    "dist"
    "assets"
+
+    # Flow, not JavaScript:
+    flow-typed
 )
 declare -a exclude_paths
 exclude_paths=(
@@ -43,4 +46,11 @@ exclude_string() {
     echo "${s::-1}"
 }
 
-find . -type f \( -iname \*.js -o -iname \*.cjs -o -iname \*.mjs \) | egrep -v "$(exclude_string)"
+find . -type f \( \
+    -iname \*.cjs -o \
+    -iname \*.js -o \
+    -iname \*.jsx -o \
+    -iname \*.mjs -o \
+    -iname \*.ts -o \
+    -iname \*.tsx \
+\) | egrep -v "$(exclude_string)"
